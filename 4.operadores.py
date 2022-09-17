@@ -46,3 +46,21 @@ if not a:
 nome = 'elton'
 if 'l' in nome:
   print(f'existe l em seu nome')
+
+
+nome = 'Elton Guilherme'
+if 'jkaajk' in nome:
+  print(f'Existe l em seu nome')
+else:
+  print('Não existe')
+
+nome = str(input('nome do usuário: '))
+senha = int(input('senha do usuário: '))
+
+login = 'elton'
+secret = 1234
+
+if nome == login and senha==secret:
+  print('Acesso liberado')
+else:
+  print('Login ou senha inválidos: Acesso negado.')
