@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;Pass e Ellipsis&quot;">
-      <change afterPath="$PROJECT_DIR$/30.exercícios.py" afterDir="false" />
+    <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;exercícios&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/30.exercícios.py" beforeDir="false" afterPath="$PROJECT_DIR$/30.exercícios.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/30.exercícios.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -173,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663422170096</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;exercícios&quot;">
+      <created>1663428748537</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663428748537</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +200,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;caracteres&quot;" />
     <MESSAGE value="&quot;Pass e Ellipsis&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Pass e Ellipsis&quot;" />
+    <MESSAGE value="&quot;exercícios&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;exercícios&quot;" />
   </component>
 </project>
