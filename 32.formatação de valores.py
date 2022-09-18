@@ -22,6 +22,17 @@ print(f'{d:0>4}')''' # 4 casas á esquerda preenchendo com zeros
 '''n = 1150
 print(f'{n:0>10.2f}')'''
 
+#formatação de texto
+
+'''nome = 'renato russo'
+
+print(f'{nome:#^20}')'''
+
+nome = 'renato russo'
+
+print(f'{nome:@>13}')
+
+
 #_____________________________________________________________________
 
 #estudos
