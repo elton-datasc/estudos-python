@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;operações com strings&quot;">
-      <change beforePath="$PROJECT_DIR$/34.While.py" beforeDir="false" afterPath="$PROJECT_DIR$/34.While.py" afterDir="false" />
-    </list>
+    <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;while&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663538162387</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="&quot;while&quot;">
+      <created>1663631754237</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663631754237</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +270,7 @@
     <MESSAGE value="&quot;exercícios&quot;" />
     <MESSAGE value="&quot;formatação de valores&quot;" />
     <MESSAGE value="&quot;operações com strings&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;operações com strings&quot;" />
+    <MESSAGE value="&quot;while&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;while&quot;" />
   </component>
 </project>
