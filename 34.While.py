@@ -16,13 +16,25 @@ while x < 10:
     x += 1
 print('Acabou')'''
 
-x = 0
+'''x = 0
 while x < 10:
     if x == 3:
         x += 1
         break
     print(x)
     x += 1
-print('Acabou')
+print('Acabou')'''
+
+contador = 1
+acumulador = 1
+
+'''while contador <= 5:
+    print(contador, acumulador)
+    acumulador = acumulador + contador
+    contador += 1
+else:
+    print('cheguei no else')
+print('continua...')'''
+
 
 
