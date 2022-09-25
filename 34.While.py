@@ -36,5 +36,17 @@ else:
     print('cheguei no else')
 print('continua...')'''
 
+#aula 35 ELSE NO WHILE
+
+while contador <= 10:
+    print(contador)
+
+    if contador > 5:
+        break
+    contador += 1
+else:
+    print('cheguei no else')
+print('fora do while')
+
 
 
