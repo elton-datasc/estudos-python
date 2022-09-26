@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;else no while e while com strings&quot;">
-      <change afterPath="$PROJECT_DIR$/37.For.py" afterDir="false" />
-    </list>
+    <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;FOR&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -294,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664149089782</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="&quot;FOR&quot;">
+      <created>1664152850545</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1664152850545</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,6 +322,7 @@
     <MESSAGE value="&quot;while&quot;" />
     <MESSAGE value="&quot;else no while&quot;" />
     <MESSAGE value="&quot;else no while e while com strings&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;else no while e while com strings&quot;" />
+    <MESSAGE value="&quot;FOR&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;FOR&quot;" />
   </component>
 </project>
