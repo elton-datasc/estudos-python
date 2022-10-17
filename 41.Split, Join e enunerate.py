@@ -4,15 +4,18 @@ str2 = 'Eu quero é ver o oco!'
 lista = str.split(' ')
 lista2 = str.split('.')
 
-print(lista)
+#print(lista)
 print(lista2)
 
-palavra = ''
+'''palavra = ''
 contagem = 0
 for valor in lista:
     qtd_vezes = lista.count(valor)
     if qtd_vezes > contagem:
         contagem = qtd_vezes
-        palavra = valor
+        palavra = valor'''
 
-print(f'A palavra que mais aparece é {palavra}, ( {contagem}  x vezes ).')
+#print(f'A palavra que mais aparece é {palavra}, ( {contagem}  x vezes ).')
+
+string2 = ','.join(lista)
+print(string2)
