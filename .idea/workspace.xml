@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;listas&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/38.Listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/38.Listas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/40.For_Else.py" beforeDir="false" afterPath="$PROJECT_DIR$/40.For_Else.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <recent name="C:\Users\elton\OneDrive\Área de Trabalho\Estudos_Python_Github\estudos-python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.38.Listas">
+  <component name="RunManager" selected="Python.40.For_Else">
     <configuration name="34.While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudos-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="40.For_Else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudos-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40.For_Else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.40.For_Else" />
         <item itemvalue="Python.38.Listas" />
         <item itemvalue="Python.stdudies" />
         <item itemvalue="Python.36.While_strings" />
         <item itemvalue="Python.34.While" />
-        <item itemvalue="Python.Strings" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +329,35 @@
       <option name="project" value="LOCAL" />
       <updated>1665884019422</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="&quot;listas&quot;">
+      <created>1665958832095</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665958832095</updated>
+    </task>
+    <task id="LOCAL-00025" summary="&quot;listas&quot;">
+      <created>1665965071143</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1665965071143</updated>
+    </task>
+    <task id="LOCAL-00026" summary="&quot;listas&quot;">
+      <created>1665966433777</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1665966433777</updated>
+    </task>
+    <task id="LOCAL-00027" summary="&quot;listas&quot;">
+      <created>1665967602839</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1665967602839</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

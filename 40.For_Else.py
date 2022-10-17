@@ -8,8 +8,7 @@ panelinha = ['elton', 'luciana', 'rayane']
 
 for nome in panelinha:
     if nome.lower().startswith('r'):
-        break
+        continue
     print(nome)
-else:
-    print('não existe uma palavra que comece com a letra j')
+
 
