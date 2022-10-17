@@ -38,7 +38,7 @@ chances = 3
 
 while True:
     if chances <= 0:
-        print('Já Elvis ! Tente novamente!')
+        print('Já Elvis! Tente novamente!')
         break
     letra = input('Digite uma letra: ')
     if letra.isalpha():
