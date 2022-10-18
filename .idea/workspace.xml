@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;listas&quot;">
-      <change afterPath="$PROJECT_DIR$/43.Desempacotamento de listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44.Invertendo o valor de variáveis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <recent name="C:\Users\elton\OneDrive\Área de Trabalho\Estudos_Python_Github\estudos-python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.43.Desempacotamento de listas">
+  <component name="RunManager" selected="Python.44.Invertendo o valor de variáveis">
     <configuration name="38.Listas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudos-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stdudies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="44.Invertendo o valor de variáveis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudos-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stdudies.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/44.Invertendo o valor de variáveis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.44.Invertendo o valor de variáveis" />
         <item itemvalue="Python.43.Desempacotamento de listas" />
         <item itemvalue="Python.41.Split, Join e enunerate" />
         <item itemvalue="Python.40.For_Else" />
         <item itemvalue="Python.38.Listas" />
-        <item itemvalue="Python.stdudies" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666096569304</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="&quot;listas&quot;">
+      <created>1666099147272</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1666099147272</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
