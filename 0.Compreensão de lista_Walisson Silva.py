@@ -14,3 +14,6 @@ print(n)
 
 #trazendo só os pares
 print([i for i in n if i % 2 == 0])
+
+#exemplo 2
+print([i for i in range(21) if i % 2 == 0])
