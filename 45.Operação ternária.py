@@ -20,3 +20,7 @@ if not idade.isnumeric():
 else:
     idade = int(idade)
     print(msg) if idade >= 18 else print(msgn)
+
+
+
+#faça if condição else faça
