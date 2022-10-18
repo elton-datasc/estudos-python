@@ -25,6 +25,24 @@ f = cs + cs1
 #print(' '.join(f))
 print(f)
 
-for indice, valor in enumerate(f):
-    print(indice, valor)
+'''for indice, valor in enumerate(f):
+    print(indice, valor)'''
+
+
+# listas dentro de listas:
+
+lista = [
+    ['elton', 'paulada', 'tutano', 'biano'],
+    ['luciana', 'raye', 'elton'],
+    ['elton','thatah', 'lulu', 'igo', 'raye']
+]
+
+#Imprimindo com índices
+for v1, v2 in enumerate(lista):
+    print(v1, v2)
+
+#Alterando índices
+for v1, v2 in enumerate(lista, 14):
+    print(v1, v2)
+
 
