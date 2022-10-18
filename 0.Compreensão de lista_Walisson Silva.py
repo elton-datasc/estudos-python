@@ -17,3 +17,9 @@ print([i for i in n if i % 2 == 0])
 
 #exemplo 2
 print([i for i in range(21) if i % 2 == 0])
+
+for i in range(20):
+    print(i)
+
+v = [i for i in range(20) if i % 2 == 0]
+print(v)
