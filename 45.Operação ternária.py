@@ -24,3 +24,5 @@ else:
 
 
 #faça if condição else faça
+
+print('pode dirigir') if idade >=18 else print('não pode dirigir')

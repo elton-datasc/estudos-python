@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;listas&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/41.Split, Join e enunerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/41.Split, Join e enunerate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +42,8 @@
       <recent name="C:\Users\elton\OneDrive\Área de Trabalho\Estudos_Python_Github\estudos-python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.41.Split, Join e enunerate">
-    <configuration name="36.While_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0.Compreensão de lista_Walisson Silva">
+    <configuration name="0.Compreensão de lista_Walisson Silva" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudos-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\elton\OneDrive\Área de Trabalho\Estudos_Python_Github\estudos-python\36.While_strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0.Compreensão de lista_Walisson Silva.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0.Compreensão de lista_Walisson Silva" />
         <item itemvalue="Python.41.Split, Join e enunerate" />
         <item itemvalue="Python.40.For_Else" />
         <item itemvalue="Python.38.Listas" />
         <item itemvalue="Python.stdudies" />
-        <item itemvalue="Python.36.While_strings" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665969288206</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="&quot;listas&quot;">
+      <created>1666129558962</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1666129558962</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
