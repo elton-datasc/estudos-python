@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;listas&quot;">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/47.Desafio de Contadores.py" afterDir="false" />
+>>>>>>> 50916b2f1fc43f605f66459bfd343abad6cc494c
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,9 +29,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectId" id="2ERqi69TKQJsqX9tPSXtCzbiunM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,14 +39,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\elton\OneDrive\Área de Trabalho\Estudos_Python_Github\estudos-python" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.teste">
+=======
+  <component name="RunManager" selected="Python.47.Desafio de Contadores">
+>>>>>>> 50916b2f1fc43f605f66459bfd343abad6cc494c
     <configuration name="0.Compreensão de lista_Walisson Silva" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudos-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +72,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="43.Desempacotamento de listas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="40.For_Else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudos-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/43.Desempacotamento de listas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40.For_Else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="44.Invertendo o valor de variáveis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="41.Split, Join e enunerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudos-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/44.Invertendo o valor de variáveis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/41.Split, Join e enunerate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +117,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="45.Operação ternária" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="46.Operador OR com condição" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> 50916b2f1fc43f605f66459bfd343abad6cc494c
       <module name="estudos-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +130,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/45.Operação ternária.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46.Operador OR com condição.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="47.Desafio de Contadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47.Desafio de Contadores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +183,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.teste" />
         <item itemvalue="Python.0.Compreensão de lista_Walisson Silva" />
         <item itemvalue="Python.45.Operação ternária" />
         <item itemvalue="Python.44.Invertendo o valor de variáveis" />
         <item itemvalue="Python.43.Desempacotamento de listas" />
+=======
+        <item itemvalue="Python.47.Desafio de Contadores" />
+        <item itemvalue="Python.46.Operador OR com condição" />
+        <item itemvalue="Python.0.Compreensão de lista_Walisson Silva" />
+        <item itemvalue="Python.41.Split, Join e enunerate" />
+        <item itemvalue="Python.40.For_Else" />
+>>>>>>> 50916b2f1fc43f605f66459bfd343abad6cc494c
       </list>
     </recent_temporary>
   </component>
@@ -374,33 +412,34 @@
       <updated>1665969288206</updated>
     </task>
     <task id="LOCAL-00030" summary="&quot;listas&quot;">
-      <created>1666011783272</created>
+      <created>1666129558962</created>
       <option name="number" value="00030" />
       <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1666011783272</updated>
+      <updated>1666129558962</updated>
     </task>
     <task id="LOCAL-00031" summary="&quot;listas&quot;">
-      <created>1666011870648</created>
+      <created>1666574854825</created>
       <option name="number" value="00031" />
       <option name="presentableId" value="LOCAL-00031" />
       <option name="project" value="LOCAL" />
-      <updated>1666011870648</updated>
+      <updated>1666574854825</updated>
     </task>
     <task id="LOCAL-00032" summary="&quot;listas&quot;">
-      <created>1666019171479</created>
+      <created>1666575270269</created>
       <option name="number" value="00032" />
       <option name="presentableId" value="LOCAL-00032" />
       <option name="project" value="LOCAL" />
-      <updated>1666019171479</updated>
+      <updated>1666575270269</updated>
     </task>
     <task id="LOCAL-00033" summary="&quot;listas&quot;">
-      <created>1666096569304</created>
+      <created>1666576428587</created>
       <option name="number" value="00033" />
       <option name="presentableId" value="LOCAL-00033" />
       <option name="project" value="LOCAL" />
-      <updated>1666096569304</updated>
+      <updated>1666576428587</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00034" summary="&quot;listas&quot;">
       <created>1666099147272</created>
       <option name="number" value="00034" />
@@ -451,6 +490,9 @@
       <updated>1666118683403</updated>
     </task>
     <option name="localTasksCounter" value="41" />
+=======
+    <option name="localTasksCounter" value="34" />
+>>>>>>> 50916b2f1fc43f605f66459bfd343abad6cc494c
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
