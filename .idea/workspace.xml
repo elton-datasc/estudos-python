@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;listas&quot;" />
+    <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;listas&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.1.Funções Lambda_Wallison Silva.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.1.Funções Lambda_Wallison Silva.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,28 @@
       <recent name="C:\Users\elton\OneDrive\Área de Trabalho\Estudos_Python_Github\estudos-python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.47.Desafio de Contadores">
+  <component name="RunManager" selected="Python.0.1.Funções Lambda_Wallison Silva">
+    <configuration name="0.1.Funções Lambda_Wallison Silva" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudos-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0.1.Funções Lambda_Wallison Silva.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="0.Compreensão de lista_Walisson Silva" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudos-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,27 +78,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0.Compreensão de lista_Walisson Silva.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="40.For_Else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="estudos-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40.For_Else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0.1.Funções Lambda_Wallison Silva" />
         <item itemvalue="Python.47.Desafio de Contadores" />
         <item itemvalue="Python.46.Operador OR com condição" />
         <item itemvalue="Python.0.Compreensão de lista_Walisson Silva" />
         <item itemvalue="Python.41.Split, Join e enunerate" />
-        <item itemvalue="Python.40.For_Else" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666576428587</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="&quot;listas&quot;">
+      <created>1667003878283</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1667003878283</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
