@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d85c5bc-a714-4785-883c-be4924b8d704" name="Changes" comment="&quot;lambda&quot;">
-      <change afterPath="$PROJECT_DIR$/print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.1.1.Funções Lambda_Hashtag.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.1.1.Funções Lambda_Hashtag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print.py" beforeDir="false" afterPath="$PROJECT_DIR$/print.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -435,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667872243594</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="&quot;lambda&quot;">
+      <created>1667873872658</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1667873872658</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

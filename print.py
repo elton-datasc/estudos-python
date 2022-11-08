@@ -10,6 +10,9 @@ c.print("Hello", "World!",
         style="bold red on white",
         justify='center')
 
-c.print('oshe',
-        style='blink',
-        justify='left')
+
+c.print(
+    'oshe',
+    justify='full',
+    style='yellow bold'
+)
