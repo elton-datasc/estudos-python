@@ -1,6 +1,8 @@
 from rich import print
 from rich.console import Console
 
+print("Hello, [bold magenta]World[/bold magenta]!", ":vampire:", locals())
+
 c = Console()
 c.print("Terminal", "Root", style="#ccc010 bold")
 t = '[red on yellow reverse] Eltinho! [/]'
