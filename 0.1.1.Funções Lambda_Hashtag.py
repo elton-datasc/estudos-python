@@ -27,4 +27,6 @@ print(o(9, 3))
 
 from rich import print
 
-print('''[red on yellow] Elton ! [/]''')
+print('''
+[b][red on yellow] Elton ! [/]
+''')
