@@ -24,3 +24,7 @@ def o(n1, n2):
 print(m(9, 3))
 print(n(9, 3))
 print(o(9, 3))
+
+from rich import print
+
+print('''[red on yellow] Elton ! [/]''')
