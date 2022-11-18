@@ -1,5 +1,7 @@
+
+x = 3
+
 def escopo():
-  x = 1
   print(x)
 
 
