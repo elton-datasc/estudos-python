@@ -10,12 +10,9 @@ print(multiplicar)'''
 
 def par():
     num = int(input('digite um número: '))
-    if num % 2 ==0:
-        print(f'O número {num} é par')
-    else:
-        print(f'O número {num} é impar')
+    print(f'O número {num} é par') if num % 2 ==0 else print(f'O número {num} é impar')
 
-
+    
 par()
 
 
