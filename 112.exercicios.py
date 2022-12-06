@@ -1,8 +1,9 @@
 def mult(*args):
-    n=1
+    n = 1
     for i in args:
-        n*=i
-        print(n)
+        n *= i
+    return n
 
 
-mult(3,7)
+multiplicar = mult(3,7)
+print(multiplicar)
